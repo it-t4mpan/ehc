@@ -1,5 +1,4 @@
-# ehc
-Email Header Checker with VirusTotal Integration
+# ehc - Email Header Checker with VirusTotal Integration
 
 <img width="534" alt="Screenshot 2024-06-27 at 17 45 46" src="https://github.com/it-t4mpan/ehc/assets/168879273/a6d5781a-c22e-4717-ba4b-07d0faa2f01b">
 
