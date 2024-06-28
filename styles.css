@@ -1,0 +1,12 @@
+/* Tambahan styling jika diperlukan */
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    transition: background-color 0.3s ease;
+}
