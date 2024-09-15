@@ -1,6 +1,6 @@
 <?php
 function checkDomainReputation($domain) {
-    $apiKey = 'PUT_YOUR_BASE64_ENCODED_IMAGE_HERE'; // Ganti dengan API key Anda
+    $apiKey = 'PUT_YOUR_API_KEY_FROM_VIRUSTOTAL'; // Ganti dengan API key Anda
     $url = "https://www.virustotal.com/api/v3/domains/$domain";
 
     $curl = curl_init();
